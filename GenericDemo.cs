@@ -80,3 +80,5 @@ public class GenericDemo : IGenerics
     
     
 }
+
+// Included Url to run and test the above code at coderpad.io
